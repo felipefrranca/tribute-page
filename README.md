@@ -1,2 +1,3 @@
-# tribute-page-FCC
-Uma página que fiz em homenagem a Ada Lovelace, usando apenas HTML e CSS para um projeto do FreeCodeCamp.
+# Ada Lovelace tribute page usando apenas HTML e CSS
+
+<a href="https://codepen.io/felipefrranca/pen/YzxxRdB" target="_blank">Codepen link</a>
