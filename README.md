@@ -1,3 +1,5 @@
-# Ada Lovelace tribute page usando apenas HTML e CSS
+# Ada Lovelace tribute page
 
-<a href="https://codepen.io/felipefrranca/pen/YzxxRdB" target="_blank">Codepen link</a>
+Link do projeto no <a href="https://codepen.io/felipefrranca/pen/YzxxRdB" target="_blank">CodePen</a>
+
+Linguagens usadas: HTML e CSS
